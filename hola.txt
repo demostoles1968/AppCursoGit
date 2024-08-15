@@ -1,0 +1,15 @@
+Hola a todos
+Adios a todos
+Espero que tengan un excelente dia
+mi nombre es Ricardo, disfruta el curso
+el año es 2025
+git show agregado
+
+commit de prueba
+
+commit 2
+
+commit 3
+
+Cambio desde la rama master
+Modificacion desde la rama dev
